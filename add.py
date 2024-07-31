@@ -1,4 +1,5 @@
 a=4
 b=7
 c=a-b
-print(c)
+d=c+99
+print(d)
